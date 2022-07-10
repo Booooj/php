@@ -1,2 +1,2 @@
-アンケートフォームを作成してみました。
-![アンケートフォーム](https://user-images.githubusercontent.com/90837337/155307512-74f7de22-5ac8-4c2f-93b4-0b2f39d11c0f.png)
+PHPで、アンケートフォームを作成してみました。
+![アンケート](https://user-images.githubusercontent.com/90837337/178144806-b2276f38-9c2a-455c-92ba-01f042d28a7d.jpeg)
